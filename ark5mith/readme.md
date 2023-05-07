@@ -9,7 +9,7 @@ Notebooks
 
 |  Link | Function or Name | Readme Page
 | --- | --- | --- | 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ark5mith/stable-diffusion-webui-colab/blob/community/ark5mith/INSTALL-UPDATE_ConfigDrive_Colab_Kaggle.ipynb) | ConfigDrive Install/Update | [Readme](https://github.com/ark5mith/stable-diffusion-webui-colab/blob/community/ark5mith/readme.md)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ark5mith/stable-diffusion-webui-colab/blob/community/ark5mith/INSTALL_UPDATE_ConfigDrive_Colab_Kaggle.ipynb) | ConfigDrive Install/Update | [Readme](https://github.com/ark5mith/stable-diffusion-webui-colab/blob/community/ark5mith/readme.md)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ark5mith/stable-diffusion-webui-colab/blob/community/ark5mith/RUN_ConfigDrive_Colab_Kaggle.ipynb) | ConfigDrive Run | [Readme](https://github.com/ark5mith/stable-diffusion-webui-colab/blob/community/ark5mith/readme.md)
 [![Open In Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/roykent/stablediffusionwebui-configured) | ConfigKaggle | [Readme](https://github.com/ark5mith/stable-diffusion-webui-colab/blob/community/ark5mith/readme.md)
 
